@@ -1,0 +1,19 @@
+{
+  "name": "masterrepo",
+  "version": "1.0.0",
+  "description": "to import es6lib",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "dev": "gulp",
+    "test": "gulp test"
+  },
+  "keywords": [
+    "es6lib"
+  ],
+  "author": "narendra",
+  "license": "ISC",
+  "dependencies": {
+    "es6lib": "agarwal13/es6lib"
+  }
+}
