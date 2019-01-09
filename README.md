@@ -1,6 +1,6 @@
 # masterrepo
 to test es6lib
 
-trigger should happen
+the trigger should happen
 
 branch2
