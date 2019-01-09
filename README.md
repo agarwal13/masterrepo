@@ -1,6 +1,6 @@
 # masterrepo
 to test es6lib
 
-this shouldddd trigger the build
+this shouldd trigger the build
 
 branch1
