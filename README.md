@@ -1,7 +1,7 @@
 # masterrepo
 to test es6lib
 add change
-edit1
+edit2
 
 
 develop branch
