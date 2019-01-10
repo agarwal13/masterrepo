@@ -1,7 +1,7 @@
 # masterrepo
 to test es6lib
 
-edit2
+edit3
 this trigger may happen
 
 branch2
